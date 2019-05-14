@@ -1,2 +1,2 @@
 # cat-pics
-test
+changed some stuff on the readme
